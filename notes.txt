@@ -1,0 +1,2 @@
+Line 1: original version
+Line 2: common line
